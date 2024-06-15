@@ -15,7 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
-    I am create this webpage by using media query and flexbox to make it's responsive to all devices
+ - I am create this webpage by using media query and flexbox to make it's responsive to all devices
 
 ### Screenshot
 
@@ -31,7 +31,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [ Click here! ]()
-- Live Site URL: [ Click here! ]()
+- Live Site URL: [ Click here! ](https://murugan008.github.io/Recipe-Page/)
 
 ## My process
 
